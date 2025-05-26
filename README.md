@@ -33,5 +33,4 @@ Some of the insights derived (as seen in the notebook):
 - Most popular products and categories
 - Revenue insights by customer and product
 
-## 📂 Folder Structure
 
